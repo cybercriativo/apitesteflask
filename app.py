@@ -31,4 +31,4 @@ def verificar_nome():
 
 if __name__ == '__main__':
     # Inicia o servidor Flask
-    app.run(debug=True)
+    app.run()
